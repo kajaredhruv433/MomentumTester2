@@ -1,0 +1,5 @@
+"""Shared package defaults."""
+
+DEFAULT_HASH_SIZE = 8
+DEFAULT_DOMINANT_COLOR_BITS = 4
+SUPPORTED_IMAGE_FORMATS = ("BMP", "GIF", "JPEG", "PNG", "TIFF", "WEBP")
